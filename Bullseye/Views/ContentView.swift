@@ -3,9 +3,6 @@
 import SwiftUI
 
 struct ContentView: View {
-
-//    Double.random(in: 1.0...100.0)
-    //commit
     
   @State private var alertIsVisible = false
     @State private var sliderValue = 50.0
